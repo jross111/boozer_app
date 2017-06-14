@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: papyrus;
+
+
+}
+
+.cocktail {
+  margin: 10px;
+  padding: 5px;
+  font-family: monaco;
+  color: red
+}
+.col-md-3-s {
+  position: absolute;
+  text-align: right;
+  overflow-y: scroll;
+  height: 100%;
+  padding-right: 25px;
+}
+.col-md-4-main {
+  overflow-y: scroll;
+  height: 100%;
+  max-width: 300px;
+  float: right;
+}
